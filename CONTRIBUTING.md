@@ -7,7 +7,7 @@ First of all, welcome! We're excited that you'd like to contribute. How would yo
 * [I'd like to build a new feature myself](#how-to-build-features-yourself)
 
 Everyone here is expected to abide by the [Contributor Covenant Code of Conduct](#the-contributor-covenant-code-of-conduct).
-
+ 
 Wanna do something else, or have a question not answered here? Hop into Slack and ask us questions before you get started. [Get an invite to SQLCommunity.slack.com](https://sqlps.io/slack/), and we're in the [#FirstResponderKit channel](https://sqlcommunity.slack.com/messages/firstresponderkit/). We welcome newcomers, and there's always a way you can help.
 
 ## How to Report Bugs
