@@ -1,4 +1,4 @@
-MIT License 
+MIT License  
  
 Copyright for portions of sp_Blitz are held by Microsoft as part of project     
 tigertoolbox and are provided under the MIT license:
