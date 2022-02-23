@@ -1,6 +1,6 @@
 MIT License
  
-Copyright for portions of sp_Blitz are held by Microsoft as part of project   
+Copyright for portions of sp_Blitz are held by Microsoft as part of project    
 tigertoolbox and are provided under the MIT license:
 https://github.com/Microsoft/tigertoolbox
 All other copyrights for sp_Blitz are held by Brent Ozar Unlimited, 2017 as
@@ -31,5 +31,5 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 SOFTWARE.  
