@@ -6,7 +6,7 @@
 [![issues badge]][issues]
 
 Navigation
- - [How to Get Support](#how-to-get-support)
+ - [How to Get Support](#how-to-get-support) 
  - [sp_Blitz: Overall Health Check](#sp_blitz-overall-health-check)
    - [Advanced sp_Blitz Parameters](#advanced-sp_blitz-parameters)
      - [Writing sp_Blitz Output to a Table](#writing-sp_blitz-output-to-a-table)
