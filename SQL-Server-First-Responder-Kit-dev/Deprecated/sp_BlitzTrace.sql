@@ -29,7 +29,7 @@ ALTER PROCEDURE dbo.sp_BlitzTrace
 
 WITH RECOMPILE
 AS
-IF @Help = 1 PRINT '
+IF @Help = 1 PRINT ' 
 /*
 sp_BlitzTrace from http://FirstResponderKit.org
 
