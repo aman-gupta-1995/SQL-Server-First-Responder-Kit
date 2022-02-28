@@ -28,7 +28,7 @@ ALTER PROCEDURE dbo.sp_BlitzTrace
     @Help TINYINT = 0
 
 WITH RECOMPILE
-AS
+AS 
 IF @Help = 1 PRINT ' 
 /*
 sp_BlitzTrace from http://FirstResponderKit.org
