@@ -5,7 +5,7 @@ This table lists all checks ordered by priority.
 Before adding a new check, make sure to add a Github issue for it first, and have a group discussion about its priority, description, and findings URL.
 
 If you want to change anything about a check - the priority, finding, URL, or ID - open a Github issue first. The relevant scripts have to be updated too.
-
+ 
 | Priority | FindingsGroup | Finding | URL | CheckID |
 |----------|-----------------------------|---------------------------------------------------------|------------------------------------------------------------------------|----------|
 | 0 | Outdated sp_Blitz | sp_Blitz is Over 6 Months Old | https://www.BrentOzar.com/blitz/ | 155 |
