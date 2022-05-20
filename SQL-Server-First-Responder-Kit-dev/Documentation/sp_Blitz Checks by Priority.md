@@ -1,6 +1,6 @@
 # sp_Blitz Checks by Priority  
   
-This table lists all checks ordered by priority.   
+This table lists all checks ordered by priority.    
 
 Before adding a new check, make sure to add a Github issue for it first, and have a group discussion about its priority, description, and findings URL.
 
