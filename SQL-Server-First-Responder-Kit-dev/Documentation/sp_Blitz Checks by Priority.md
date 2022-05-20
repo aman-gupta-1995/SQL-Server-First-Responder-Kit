@@ -1,4 +1,4 @@
-# sp_Blitz Checks by Priority 
+# sp_Blitz Checks by Priority  
  
 This table lists all checks ordered by priority.   
 
