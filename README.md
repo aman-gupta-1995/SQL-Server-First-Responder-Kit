@@ -4,7 +4,7 @@
 [![stars badge]][stars] 
 [![forks badge]][forks]
 [![issues badge]][issues]  
-
+ 
 Navigation
  - [How to Get Support](#how-to-get-support) 
  - [sp_Blitz: Overall Health Check](#sp_blitz-overall-health-check)
