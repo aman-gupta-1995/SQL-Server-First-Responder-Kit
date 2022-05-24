@@ -3,7 +3,7 @@
 [![licence badge]][licence]
 [![stars badge]][stars] 
 [![forks badge]][forks]
-[![issues badge]][issues] 
+[![issues badge]][issues]  
 
 Navigation
  - [How to Get Support](#how-to-get-support) 
