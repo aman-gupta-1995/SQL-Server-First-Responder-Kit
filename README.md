@@ -2,7 +2,7 @@
 <a name="header1"></a>
 [![licence badge]][licence]
 [![stars badge]][stars] 
-[![forks badge]][forks]
+[![forks badge]][forks] 
 [![issues badge]][issues]   
   
 Navigation 
