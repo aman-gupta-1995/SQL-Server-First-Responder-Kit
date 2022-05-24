@@ -10,7 +10,7 @@ Navigation
  - [sp_Blitz: Overall Health Check](#sp_blitz-overall-health-check)
    - [Advanced sp_Blitz Parameters](#advanced-sp_blitz-parameters)
      - [Writing sp_Blitz Output to a Table](#writing-sp_blitz-output-to-a-table)
-     - [Skipping Checks or Databases](#skipping-checks-or-databases)
+     - [Skipping Checks or Databases](#skipping-checks-or-databases) 
  - [sp_BlitzCache: Find the Most Resource-Intensive Queries](#sp_blitzcache-find-the-most-resource-intensive-queries)
    - [Advanced sp_BlitzCache Parameters](#advanced-sp_blitzcache-parameters)
  - [sp_BlitzIndex: Tune Your Indexes](#sp_blitzindex-tune-your-indexes)
