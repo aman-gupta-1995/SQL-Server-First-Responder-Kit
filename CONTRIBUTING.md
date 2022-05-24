@@ -4,7 +4,7 @@ First of all, welcome! We're excited that you'd like to contribute. How would yo
       
 * [I'd like to report a bug](#how-to-report-bugs)        
 * [I'd like someone else to build something](#how-to-request-features)      
-* [I'd like to build a new feature myself](#how-to-build-features-yourself)  
+* [I'd like to build a new feature myself](#how-to-build-features-yourself)   
  
 Everyone here is expected to abide by the [Contributor Covenant Code of Conduct](#the-contributor-covenant-code-of-conduct).
    
