@@ -1,7 +1,7 @@
 # SQL Server First Responder Kit
 <a name="header1"></a>
 [![licence badge]][licence]
-[![stars badge]][stars]
+[![stars badge]][stars] 
 [![forks badge]][forks]
 [![issues badge]][issues]
 
