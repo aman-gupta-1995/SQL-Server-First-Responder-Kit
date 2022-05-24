@@ -5,7 +5,7 @@
 [![forks badge]][forks]
 [![issues badge]][issues]  
   
-Navigation
+Navigation 
  - [How to Get Support](#how-to-get-support) 
  - [sp_Blitz: Overall Health Check](#sp_blitz-overall-health-check)
    - [Advanced sp_Blitz Parameters](#advanced-sp_blitz-parameters)
