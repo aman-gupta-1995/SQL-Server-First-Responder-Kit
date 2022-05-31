@@ -6,7 +6,7 @@ ALTER PROCEDURE dbo.sp_BlitzLock
 (
     @Top INT = 2147483647,   
 	@DatabaseName NVARCHAR(256) = NULL,
-	@StartDate DATETIME = '19000101', 
+	@StartDate DATETIME = '19000101',  
 	@EndDate DATETIME = '99991231', 
 	@ObjectName NVARCHAR(1000) = NULL,
 	@StoredProcName NVARCHAR(1000) = NULL,
