@@ -6,7 +6,7 @@ IF OBJECT_ID('dbo.sp_foreachdb') IS NULL
 GO
     
 ALTER PROCEDURE dbo.sp_foreachdb  
-    -- Original fields from sp_MSforeachdb...  
+    -- Original fields from sp_MSforeachdb...   
     @command1 NVARCHAR(MAX) = NULL, 
     @replacechar NCHAR(1) = N'?' , 
     @command2 NVARCHAR(MAX) = NULL ,
