@@ -218,6 +218,6 @@ AS
             END
 
         CLOSE c;
-        DEALLOCATE c;
+        DEALLOCATE c; 
     END
 GO
