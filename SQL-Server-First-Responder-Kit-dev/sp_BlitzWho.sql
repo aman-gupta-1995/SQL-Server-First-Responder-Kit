@@ -30,7 +30,7 @@ the findings, contribute your own code, and more.
 Known limitations of this version:
  - Only Microsoft-supported versions of SQL Server. Sorry, 2005 and 2000.
    
-MIT License
+MIT License 
 
 Copyright (c) 2017 Brent Ozar Unlimited
 
