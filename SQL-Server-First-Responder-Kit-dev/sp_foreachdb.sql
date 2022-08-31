@@ -4,7 +4,7 @@ GO
 IF OBJECT_ID('dbo.sp_foreachdb') IS NULL
     EXEC ('CREATE PROCEDURE dbo.sp_foreachdb AS RETURN 0');
 GO
-
+ 
 ALTER PROCEDURE dbo.sp_foreachdb 
     -- Original fields from sp_MSforeachdb...
     @command1 NVARCHAR(MAX) = NULL,
@@ -110,7 +110,7 @@ AS
                               XML PATH('')
                             ) AS y ( x );
             END
-
+ 
         CREATE TABLE #x ( db NVARCHAR(300) );
 
         SET @sql = N'SELECT name FROM sys.databases d WHERE 1=1'
