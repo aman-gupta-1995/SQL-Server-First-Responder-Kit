@@ -1,7 +1,7 @@
 IF OBJECT_ID('dbo.sp_BlitzWho') IS NULL
 	EXEC ('CREATE PROCEDURE dbo.sp_BlitzWho AS RETURN 0;')
 GO
-
+ 
 ALTER PROCEDURE dbo.sp_BlitzWho 
 	@Help TINYINT = 0 ,
 	@ShowSleepingSPIDs TINYINT = 0, 
