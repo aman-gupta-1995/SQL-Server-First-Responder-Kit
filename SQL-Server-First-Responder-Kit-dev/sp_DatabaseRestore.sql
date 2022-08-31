@@ -5,7 +5,7 @@ GO
 ALTER PROCEDURE [dbo].[sp_DatabaseRestore]
 	  @Database NVARCHAR(128) = NULL, 
 	  @RestoreDatabaseName NVARCHAR(128) = NULL, 
-	  @BackupPathFull NVARCHAR(MAX) = NULL, 
+	  @BackupPathFull NVARCHAR(MAX) = NULL,  
 	  @BackupPathDiff NVARCHAR(MAX) = NULL, 
 	  @BackupPathLog NVARCHAR(MAX) = NULL,
 	  @MoveFiles BIT = 0, 
