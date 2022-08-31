@@ -2,7 +2,7 @@ USE [master];
 GO 
 
 IF OBJECT_ID('dbo.sp_foreachdb') IS NULL 
-    EXEC ('CREATE PROCEDURE dbo.sp_foreachdb AS RETURN 0'); 
+    EXEC ('CREATE PROCEDURE dbo.sp_foreachdb AS RETURN 0');  
 GO 
  
 ALTER PROCEDURE dbo.sp_foreachdb
