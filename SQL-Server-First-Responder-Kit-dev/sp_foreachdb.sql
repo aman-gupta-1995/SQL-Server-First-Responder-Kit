@@ -28,7 +28,7 @@ ALTER PROCEDURE dbo.sp_foreachdb
     @state_desc NVARCHAR(120) = N'ONLINE' ,
     @is_read_only BIT = 0 ,
     @is_auto_close_on BIT = NULL ,
-    @is_auto_shrink_on BIT = NULL ,
+    @is_auto_shrink_on BIT = NULL , 
     @is_broker_enabled BIT = NULL ,  
 	@VersionDate DATETIME = NULL OUTPUT
 AS
