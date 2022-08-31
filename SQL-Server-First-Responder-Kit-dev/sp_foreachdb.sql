@@ -7,7 +7,7 @@ GO
     
 ALTER PROCEDURE dbo.sp_foreachdb  
     -- Original fields from sp_MSforeachdb...  
-    @command1 NVARCHAR(MAX) = NULL,
+    @command1 NVARCHAR(MAX) = NULL, 
     @replacechar NCHAR(1) = N'?' , 
     @command2 NVARCHAR(MAX) = NULL ,
     @command3 NVARCHAR(MAX) = NULL ,
