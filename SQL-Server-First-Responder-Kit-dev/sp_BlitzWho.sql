@@ -4,7 +4,7 @@ GO
  
 ALTER PROCEDURE dbo.sp_BlitzWho 
 	@Help TINYINT = 0 ,
-	@ShowSleepingSPIDs TINYINT = 0, 
+	@ShowSleepingSPIDs TINYINT = 0,  
 	@ExpertMode BIT = 0,  
 	@Debug BIT = 0, 
 	@VersionDate DATETIME = NULL OUTPUT
