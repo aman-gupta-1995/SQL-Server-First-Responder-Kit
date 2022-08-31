@@ -1,5 +1,5 @@
 SET ANSI_NULLS ON;
-SET ANSI_PADDING ON;
+SET ANSI_PADDING ON; 
 SET ANSI_WARNINGS ON;
 SET ARITHABORT ON;
 SET CONCAT_NULL_YIELDS_NULL ON;
@@ -4766,7 +4766,7 @@ EXEC sp_BlitzQueryStore @DatabaseName = 'StackOverflow', @Top = 1, @DurationFilt
 --Look for a stored procedure name (that doesn't exist!)
 EXEC sp_BlitzQueryStore @DatabaseName = 'StackOverflow', @Top = 1, @StoredProcName = 'blah'
 
---Look for a stored procedure name that does (at least On My Computer®)
+--Look for a stored procedure name that does (at least On My ComputerÂ®)
 EXEC sp_BlitzQueryStore @DatabaseName = 'StackOverflow', @Top = 1, @StoredProcName = 'UserReportExtended'
 
 --Look for failed queries
